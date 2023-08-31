@@ -1,2 +1,2 @@
 # Lazeris
-![alt text](https://github.com/NewHere3/Lazeris/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/NewHere3/Lazeris/blob/main/image.png?raw=true)
